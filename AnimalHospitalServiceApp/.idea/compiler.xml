@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="VeterinarianWebApplication" />
       </profile>
-      <profile name="Annotation profile for AnimalGetServiceApp" enabled="true">
+      <profile name="Annotation profile for AnimalPostService" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />

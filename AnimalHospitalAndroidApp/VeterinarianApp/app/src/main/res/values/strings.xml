@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VeterinarianApp</string>
+    <string name="button_save_text">Save</string>
+    <string name="button_get_text">Get</string>
+    <string name="button_count_text">Count</string>
+    <string name="button_find_by_last_name_text">Find By Last Name</string>
+    <string name="button_search_text">Search</string>
+    <string name="button_exit_text">Exit</string>
+    <string name="switch_offline_text">Offline</string>
+    <string name="edittext_diploma_no_hint">Input Diploma Number</string>
+    <string name="edittext_citizen_id_hint">Input Citizen Id</string>
+    <string name="edittext_first_name_hint">Input First Name</string>
+    <string name="edittext_middle_name_hint">Input Middle Name (Optional)</string>
+    <string name="edittext_last_name_hint">Input Last Name</string>
+    <string name="edittext_birth_date_hint">Input Birth Date (DD/MM/YYYY)</string>
+    <string name="problem_message">Problem occurs!…</string>
+    <string name="problem_try_again_message">Problem occurs. Try again later!…</string>
+    <string name="no_veterinarian_message">No Veterinarian found</string>
+    <string name="alert_dialog_offline_title">Which option do you want to use?</string>
+    <string name="alert_dialog_offline_positive_button_text">Online</string>
+    <string name="alert_dialog_offline_negative_button_text">Offline</string>
+    <string name="alert_dialog_offline_neutral_button_text">Cancel</string>
+</resources>
